@@ -38,7 +38,7 @@
 ## Bill of materials.
 | Name | Qty | Link | Caution |
 | ---- | ---- | ---- | ---- |
-| Spacers (3*5*3 mm) | 6 |  Find in folder "Misc" | You may need a few spares. |
+| Spacers (3\*5\*3 mm) | 6 |  Find in folder "Misc" | You may need a few spares. |
 | Spring bed mounts (M4, Ø12 mm) | 4 | Spring - Aliexpress / Amazon | May be hard to tighten at first; Be careful not to bend the frame.<br>Buy **EITHER** the spring **OR** the silicone. |
 | Silicone bed mounts (M4, Ø12 mm) | 4 | Silicone - Aliexpress / Amazon | May not reach the nozzle with a 12 mm height with the Oldham; I recommend 14 mm spacers. |
 | M4*25/28/30 mm **FHCS** screws | 4 | Aliexpress  / Amazon | It heavily depends on the bed mounts and the bed itself that you used. Start with a 30 mm screw, tune it down till you get a good bed mesh, and use shorter ones. |
