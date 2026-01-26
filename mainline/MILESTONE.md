@@ -1,3 +1,3 @@
 # Lo and behold...
-- Here are the frames you were looking for!
-- Take your treasure!
+- You are about to go superlight!
+- 27% of you see this milestone.
