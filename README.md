@@ -19,8 +19,6 @@
 | Triple Z + Cableseal | Doorplug | You need to swap the mainboard first. |
 | Level nuts | (none) | You may sometimes need to adjust the screw length. See BOM for extra details. |
 
-- Measured with only my tape measure for the large areas. May not be accurate. If you found it inaccurate, tell me it's inaccurate in the comments. I want to, have to, and can't wait to hear from you. I'll also test this model to get the process faster. 
-
 - Major thanks to Henlor for building the tough foundation for this experiment project. Take a look at what he did for the Creality K1.
 
 - My frame is made out of aluminum 5052, weighing down to 300 g. The stock frame measured about 1.5 kg. You can reduce it down to (theoretically) 15 % of the original weight.
