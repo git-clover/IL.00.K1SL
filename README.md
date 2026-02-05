@@ -1,4 +1,5 @@
 # 🎊 TzV6-K1C V1.0
+<img width="708" height="852" alt="image" src="https://github.com/user-attachments/assets/2ff9ba4c-a7ff-46b6-bd09-7dcce01ffe34" />
 Thank you to ApexInvent for [working on these astonishing Tz2.0 CAD files!](https://github.com/ApexInvent/Trianglelab_TZ2.0-CAD)<br>
 Take a look at [this stock K1C hotend by squirrelf3d](https://www.printables.com/model/1018088-creality-k1k1c-hotend-alternative-clone-assembly-c) as well!<br>
 ## Info
