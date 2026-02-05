@@ -1,9 +1,7 @@
-# IN CONSTRUCTION!
+# 🎊 TzV6-K1C V1.0
 Thank you to ApexInvent for [working on these astonishing Tz2.0 CAD files!](https://github.com/ApexInvent/Trianglelab_TZ2.0-CAD)<br>
 Take a look at [this K1C hotend](https://www.printables.com/model/1018088-creality-k1k1c-hotend-alternative-clone-assembly-c) as well!<br>
-This project started on February 3rd of 2026.<br>
-It is work in progress, with 75% of it being done.<br>
-Expect the initial release today.<br>
+This project started on February 3rd of 2026. Read a very short story below.
 
 # "Unicorn who?"
 A few months ago, I went shopping for new nozzles only to find it inefficient.<br>
