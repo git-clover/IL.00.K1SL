@@ -2,7 +2,7 @@
 Thank you to ApexInvent for [working on these astonishing Tz2.0 CAD files!](https://github.com/ApexInvent/Trianglelab_TZ2.0-CAD)
 This project started on February 3rd of 2026.<br>
 It is work in progress, with 75% of it being done.<br>
-Expect the initial release at about this February 5th.<br>
+Expect the initial release on about this February 5th.<br>
 
 # "Unicorn who?"
 I disliked the reality of MK8 nozzles being less available [than the V6.](https://www.aliexpress.com/w/wholesale-silicon%20carbide%20nozzle.html)<br>
