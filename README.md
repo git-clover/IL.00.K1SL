@@ -7,10 +7,12 @@ Read a very short story below.
 
 # From prorpietary nozzles to V6
 This story starts from a nice day of summer in 2025, where my Unicorn nozzle clogged for its 5th time.<br>
-It might've been my fault, but I found it strange anyway, and then...
+It failed so badly I was certain I would trash the existing heatsink. But I somehow recovered it, used a spare hotend, and went on as usual.<br>
+**But it blobbed again!** This time, with no choice, I had to buy a new hotend.<br>
+I thought, "If you have tried lots of Unicorn nozzles, then what about a new type?"
 
-## "Unicorn who?"
-On a peaceful Tuesday of August, I went shopping for new nozzles only to find it inefficient.<br>
+## "Wait, Unicorn who?"
+On a peaceful Tuesday of August, I finally went shopping for new nozzles.<br>
 I was trying out many spools of PETG and PBT, while the TPU clogged all the time.<br>
 This also reminded me that the hotend twisted open every time I tried to screw in the Unicorn nozzle.<br>
 So, I swapped my hotend with the CHCB-OTC(K1C), found MK8 nozzles good, until...
