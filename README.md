@@ -6,7 +6,11 @@ It is work in progress, with 75% of it being done.<br>
 Expect the initial release today.<br>
 
 # "Unicorn who?"
-I disliked the reality of MK8 nozzles being less available [than the V6.](https://www.aliexpress.com/w/wholesale-silicon%20carbide%20nozzle.html)<br>
-So I decided to adapt the V6 nozzle directly, and this hotend was born.<br>
-[It's all](https://www.youtube.com/shorts/w9MUXdkAIyE) [V6 nozzles](https://www.youtube.com/shorts/MytNVpzqd6E) [**anywhere I go**](https://youtu.be/A3jx4bZE3AU?si=cCZt-2aQlPrmg-7F&t=124), while we see MK8s less often.<br>
-Now I can even get the one-buck V6 nozzle for a quick PLA/ABS print, while I wait for those [tungsten](https://www.youtube.com/shorts/yoC52YAMKkI) nozzles.
+A few months ago, I went shopping for new nozzles only to find it inefficient.<br>
+So, I swapped my hotend with the CHCB-OTC(K1C), found MK8 nozzles good, until...
+
+# "No MK8 already?!"
+One day, I looked for those [SiC nozzles](https://www.aliexpress.com/w/wholesale-silicon%20carbide%20nozzle.html).<br>
+[But only **TWO** were for MK8 hotends!](https://www.aliexpress.com/w/wholesale-mk8-silicon-carbide.html)<br>
+And they're all 0.4, which basically eliminates the [point of reinforced nozzles.](https://www.youtube.com/shorts/xz8iOlz_i_c)<br>
+So I decided to adapt the V6 nozzle directly, and this hotend was born.
