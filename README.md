@@ -1,10 +1,23 @@
 # 🎊 TzV6-K1C V1.0
 <img width="354" height="426" alt="image" src="/assets/PICTURE_DUAL.png" /><br>
-Thank you to ApexInvent for [working on these astonishing Tz2.0 CAD files!](https://github.com/ApexInvent/Trianglelab_TZ2.0-CAD)<br>
-Take a look at [this stock K1C hotend by squirrelf3d](https://www.printables.com/model/1018088-creality-k1k1c-hotend-alternative-clone-assembly-c) as well!<br>
-## Info
-This project started on February 3rd of 2026.<br>
-Read a very short story below.
+
+This project started on February 3rd of 2026.
+Thank you to ApexInvent for [working on these astonishing Tz2.0 CAD files.](https://github.com/ApexInvent/Trianglelab_TZ2.0-CAD)<br>
+Take a look at [this stock K1C hotend by squirrelf3d](https://www.printables.com/model/1018088-creality-k1k1c-hotend-alternative-clone-assembly-c) as well.<br>
+
+## Look, 3 mm cartridges with the X1C hotend!
+I designed it to use the advantages of both hotends. Look at the table below.
+
+| Tz2.0 | Stock/Unicorn |
+| -- | -- |
+| X1C heaters | 3 mm thermistor cartridges |
+| V6 nozzles | Easy fit on K1 printheads |
+
+The disadvantages I experienced were:
+| CHCB(X1C clone MK8) | Stock/Unicorn |
+| -- | -- |
+| Thermistor too weak | Easily clogs |
+| Replacement quite expensive | **PROPRIETARY** |
 
 # From prorpietary nozzles to V6
 This story starts from a nice day of summer in 2025, where my Unicorn nozzle clogged for its 5th time.<br>
@@ -21,6 +34,6 @@ So, I swapped my hotend with the CHCB-OTC(K1C), found MK8 nozzles good, until...
 ## "No MK8 already?!"
 I looked for [silicon carbide nozzles](https://www.aliexpress.com/w/wholesale-silicon%20carbide%20nozzle.html), [but only **TWO** were for MK8 hotends!](https://www.aliexpress.com/w/wholesale-mk8-silicon-carbide.html)<br>
 And they were all 0.4, which basically eliminates the [point of reinforced nozzles.](https://www.youtube.com/shorts/xz8iOlz_i_c)<br>
-So I decided to adapt the V6 nozzle directly, but I hadn't had enough time to dig on this.<br>
+So I decided to adapt the V6 nozzle directly, but I hadn't had enough time to dig into this.<br>
 When I happened to take vacations, I realized I had more time, sitting on my chair to open my CAD.<br>
 I brought the needed models, mixed some features, and on February 5th of 2026, this hotend was born.
