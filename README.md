@@ -23,9 +23,9 @@ The disadvantages I experienced were:
 This story starts from a nice day of summer in 2025, where my Unicorn nozzle clogged for its 5th time.<br>
 It failed so badly I was certain I would trash the existing heatsink. But I somehow recovered it, used a spare hotend, and went on as usual.<br>
 **But it blobbed again!** This time, with no choice, I had to buy a new hotend.<br>
-I thought, "If you have tried lots of Unicorn nozzles, then what about a new type?"
+I thought, "If I have tried lots of Unicorn nozzles, then what about a new type with smaller ones? Should I try one?!"
 
-## "Wait, Unicorn who?"
+## "Wait, smaller nozzles?!"
 On a peaceful Tuesday of August, I finally went shopping for new nozzles.<br>
 I was trying out many spools of PETG and PBT, while the TPU clogged all the time.<br>
 This also reminded me that the hotend twisted open every time I tried to screw in the Unicorn nozzle.<br>
