@@ -23,7 +23,7 @@
 
 - My frame is made out of aluminum 5052, weighing down to 300 g. The stock frame measured about 1.5 kg. You can reduce it down to (theoretically) 15 % of the original weight.
 
-- This frame does NOT support the LiDAR sensor. You'll need to calibrate the filament yourself. Relying on algorithms that you didn't make is bad in the Klipper world. You will only waste time for [*uncontrollable* algorithms.](https://www.creality.com/products/creality-k1-max-3d-printer)
+- This frame does NOT support the LiDAR sensor. You'll need to calibrate the filament yourself. 
 
 - I also provided the STEP file, so feel free to add your own fixes. I appreciate your work. When using without the load cells, you can fix the bed with four solid mounts.
 
