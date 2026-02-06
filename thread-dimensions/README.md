@@ -11,4 +11,7 @@ They'll thread your hotend right away.
 | THROAT_LOWER | THROAT_LOWER.png |
 | THROAT_COPPER | THROAT_COPPER1.png <br> THROAT_COPPER2.png |
 | THROAT_UPPER | THROAT_UPPER.png |
-| BLOCK_D | BLOCK_D1.png <br> BLOCK_D2.png <br> BLOCK_D3.png |
+| BLOCK_D | BLOCK_D1_NOZZLE.png <br> BLOCK_D2_THERMISTOR.png <br> BLOCK_D3_THROAT.png |
+<!---
+| BLOCK_S | BLOCK_S1_NOZZLE.png <br> BLOCK_S2_THERMISTOR.png <br> BLOCK_D3_THROAT.png |
+--->
