@@ -5,6 +5,9 @@ This project started on February 3rd of 2026.<br>
 **HUGE** thanks to ApexInvent for [working on these astonishing Tz2.0 CAD files.](https://github.com/ApexInvent/Trianglelab_TZ2.0-CAD)<br>
 Take a look at [this stock K1C hotend by squirrelf3d](https://www.printables.com/model/1018088-creality-k1k1c-hotend-alternative-clone-assembly-c) as well.<br>
 
+## Changelogs
+- Hotfix 020626: Resolved design issues
+
 ## Look, 3 mm cartridges with the X1C hotend!
 I designed it to use the advantages of both hotends. Look at the table below.
 
